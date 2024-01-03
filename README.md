@@ -1,3 +1,2 @@
 # player
-Este es un reproductor de musica web
-$ FranxX
+Este es un reproductor de musica web.
