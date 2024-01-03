@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'BloodBlocks';
+  src: local("BloodBlocks"), url("BloodBlocks.ttf") format("truetype"), url("BloodBlocks.woff") format('woff'), url("BloodBlocks.woff2") format('woff2');
+}
+
+* {
+  margin: 0;
+  color: #a30071d4;
+  user-select: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+html {
+  background: url('sp.jpg') center/cover;
+}
+
+canvas {
+  opacity: 0.8;
+}
+
+progress:hover {
+  opacity: initial;
+}
+
+.head {
+  background-color: transparent;
+  display: flex;
+}
+
+label img:hover {
+  opacity: 0.8;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+#audioFile {
+  display: none;
+}
+
+.osiperri {
+  margin-left: 80%;
+}
+
+button {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 15%;
+  background-color: #000;
+}
+
+button img:hover {
+  opacity: 0.8;
+}
+
+#volDisplay:after {
+  content: '%';
+}
+
+input[type='range']:focus {
+  outline: none;
+}
+
+input[type='range'],
+input[type='range']::-webkit-slider-runnable-track,
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+}
+
+input[type=range]::-ms-fill-lower {
+  background-color: HotPink;
+}
+
+input[type=range]::-ms-fill-upper {
+  background-color: black;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 500;
+}
+
+.modal-content {
+  flex: 1;
+  padding: 10px;
+  text-align: center;
+  overflow-y: auto;
+  overflow-x: hidden;
+  scrollbar-width: thin;
+}
+
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background-color: #6c176c;
+  border-radius: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: 13px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 2px solid #a80e77;
+  background-color: #89085f8c;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px 2px rgb(133, 1, 128);
+  transform: scale(1);
+  transition: transform 0.2s ease-in-out;
+}
+
+li:hover {
+  transform: scale(1.05);
+}

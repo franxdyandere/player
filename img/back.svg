@@ -1,0 +1,45 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="24" height="24" viewBox="0 0 87.938221 112.000000">
+<defs>
+  <linearGradient id="gradiente" gradientTransform="rotate(90)">
+    <stop offset="0%" stop-color="#1245C6" />
+    <stop offset="65%" stop-color="#9909B7" />
+  </linearGradient>
+</defs>
+<g transform="translate(-32.548385,131.000000) scale(0.100000,-0.100000)"
+fill="#000000">
+<path d="M605 1030 l-280 -280 280 -280 280 -280 160 0 160 0 -280 280 -280
+280 280 280 280 280 -160 0 -160 0 -280 -280z m505 243 c0 -5 -116 -124 -257
+-265 l-258 -258 258 -258 c141 -141 257 -260 257 -265 0 -4 -44 -7 -98 -7
+l-97 0 -265 265 -265 265 265 265 265 265 97 0 c54 0 98 -3 98 -7z" fill="url(#gradiente)"/>
+<path d="M904 1229 c-10 -17 13 -36 27 -22 12 12 4 33 -11 33 -5 0 -12 -5 -16
+-11z" fill="url(#gradiente)"/>
+<path d="M846 1171 c-7 -11 18 -33 27 -24 4 3 7 12 7 20 0 15 -26 18 -34 4z" fill="url(#gradiente)"/>
+<path d="M790 1105 c0 -8 7 -15 15 -15 8 0 15 7 15 15 0 8 -7 15 -15 15 -8 0
+-15 -7 -15 -15z" fill="url(#gradiente)"/>
+<path d="M734 1059 c-10 -17 13 -36 27 -22 12 12 4 33 -11 33 -5 0 -12 -5 -16
+-11z" fill="url(#gradiente)"/>
+<path d="M680 995 c0 -8 7 -15 15 -15 8 0 15 7 15 15 0 8 -7 15 -15 15 -8 0
+-15 -7 -15 -15z" fill="url(#gradiente)"/>
+<path d="M627 953 c-4 -3 -7 -12 -7 -20 0 -15 26 -18 34 -4 7 11 -18 33 -27
+24z" fill="url(#gradiente)"/>
+<path d="M564 889 c-10 -17 13 -36 27 -22 12 12 4 33 -11 33 -5 0 -12 -5 -16
+-11z" fill="url(#gradiente)"/>
+<path d="M510 825 c0 -8 7 -15 15 -15 8 0 15 7 15 15 0 8 -7 15 -15 15 -8 0
+-15 -7 -15 -15z" fill="url(#gradiente)"/>
+<path d="M454 779 c-10 -17 13 -36 27 -22 12 12 4 33 -11 33 -5 0 -12 -5 -16
+-11z" fill="url(#gradiente)"/>
+<path d="M580 675 c0 -8 9 -15 20 -15 11 0 20 7 20 15 0 8 -9 15 -20 15 -11 0
+-20 -7 -20 -15z" fill="url(#gradiente)"/>
+<path d="M646 633 c-12 -12 -6 -33 9 -33 8 0 15 6 15 14 0 17 -14 28 -24 19z" fill="url(#gradiente)"/>
+<path d="M696 571 c-7 -11 18 -33 27 -24 4 3 7 12 7 20 0 15 -26 18 -34 4z" fill="url(#gradiente)"/>
+<path d="M750 505 c0 -10 7 -15 18 -13 21 4 19 22 -2 26 -10 2 -16 -3 -16 -13z" fill="url(#gradiente)"/>
+<path d="M810 450 c0 -11 7 -20 15 -20 8 0 15 9 15 20 0 11 -7 20 -15 20 -8 0
+-15 -9 -15 -20z" fill="url(#gradiente)"/>
+<path d="M867 404 c-9 -10 2 -24 19 -24 8 0 14 7 14 15 0 15 -21 21 -33 9z" fill="url(#gradiente)"/>
+<path d="M927 353 c-4 -3 -7 -12 -7 -20 0 -15 26 -18 34 -4 7 11 -18 33 -27
+24z" fill="url(#gradiente)"/>
+<path d="M982 284 c4 -21 22 -23 26 -1 2 10 -3 17 -13 17 -10 0 -15 -6 -13
+-16z" fill="url(#gradiente)"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+	  <style type="text/css">
+  .st0{fill:url(#SVGID_1_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="4.7999" y1="12" x2="19.2001" y2="12">
+  <stop  offset="0" style="stop-color:#1245C6"/>
+  <stop  offset="1" style="stop-color:#9909B7"/>
+</linearGradient>
+<g><path class="st0" d="M10 8.64L15.27 12 10 15.36V8.64zM8 5v14l11-7L8 5z"></path></g></svg>
